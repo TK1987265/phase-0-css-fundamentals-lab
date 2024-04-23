@@ -18,11 +18,11 @@ header h1 {
 nav a {
   padding: 10px;
   background-color: grey;
-  display: inline-block; /* Make sure links are centered by making them inline blocks */
+  display: inline-block;
 }
 
 nav {
-  text-align: center; /* Center the navigation links */
+  text-align: center;
 }
 
 /* Update image caption */
@@ -42,7 +42,7 @@ nav {
 #details div {
   float: left;
   width: 25%;
-  background-color: #f2f2f2; /* Example color, change as you like */
+  background-color: red;
   text-align: center;
 }
 
